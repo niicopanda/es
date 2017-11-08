@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on The Library</title>
+    <link>https://grave-digger-neville-27446.netlify.com/post/</link>
+    <description>Recent content in Posts on The Library</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>Information wants to be free [Stewart Brand, 1984]</copyright>
     <lastBuildDate>Wed, 08 Nov 2017 06:52:33 -0600</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grave-digger-neville-27446.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://example.org/post/first/</link>
+      <link>https://grave-digger-neville-27446.netlify.com/post/first/</link>
       <pubDate>Wed, 08 Nov 2017 06:52:33 -0600</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
+      <guid>https://grave-digger-neville-27446.netlify.com/post/first/</guid>
       <description>This is my first post.</description>
     </item>
     
